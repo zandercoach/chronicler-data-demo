@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 A road meeting a shallow river with a few stepping stones, the water a flat band slightly higher on one side than the other; the count's keep very small on the far horizon. Petrol on the water. Steer away from a bridge or a storm.
 
 WHAT IS FIXED
-The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/location/graufurt.png
+img/location/graufurt.jpg

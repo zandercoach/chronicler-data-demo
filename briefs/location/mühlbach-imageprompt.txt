@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 A mill with its wheel at a stream, two or three small houses, and at one edge of the picture the first flat bands of mist. Petrol on the mill wheel. Steer away from a crowded village scene.
 
 WHAT IS FIXED
-The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/location/mühlbach.png
+img/location/mühlbach.jpg

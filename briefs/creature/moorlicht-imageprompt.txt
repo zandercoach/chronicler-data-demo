@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 Three or four small round lights floating above flat bands of mist, a thin path line curving away from them. Petrol on the lights. Steer away from faces in the lights or skulls.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Square 1:1, 1024 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/creature/moorlicht.png
+img/creature/moorlicht.jpg

@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 A tall tower leaning a little, its lower half under a flat field of moor water, bands of mist across it, one window lit. Petrol on the window. Steer away from a ruin in flames or a dark fortress.
 
 WHAT IS FIXED
-The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/location/turm_im_nebelmoor.png
+img/location/turm_im_nebelmoor.jpg

@@ -14,7 +14,7 @@ THE MOTIF DIRECTION
 A short trail of unusual footprints crossing the white space, three or four of them. Petrol on the last footprint. Steer away from claws, blood or a monster.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as default.jpg.
+The style guide above. Square 1:1, 1024 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.

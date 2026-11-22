@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 Standing figure with a smith's hammer resting on one shoulder and a rolled hand-drawn map under the other arm, one corner of the map unrolled. Petrol on the map. Steer away from anything that shows him lost, hurt or gone — this is his portrait, not his fate.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/member/jörn_eisenfaust.png
+img/member/jörn_eisenfaust.jpg

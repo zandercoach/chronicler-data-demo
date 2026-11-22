@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 A ring of a few simple trees around an empty clearing, mist at the edges, no figures and no footprints, the clearing itself left white. Petrol on one small plant in the middle. Steer away from anything hidden in the trees.
 
 WHAT IS FIXED
-The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/location/unbetretene_lichtung.png
+img/location/unbetretene_lichtung.jpg

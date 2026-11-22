@@ -14,7 +14,7 @@ THE MOTIF DIRECTION
 A closed book standing upright, a ribbon bookmark hanging out at the bottom. Petrol on the ribbon. Steer away from any lettering on the cover or spine.
 
 WHAT IS FIXED
-The style guide above. Portrait 2:3, 1024 x 1536, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as default.jpg.
+The style guide above. Portrait 2:3, 1024 x 1536, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.

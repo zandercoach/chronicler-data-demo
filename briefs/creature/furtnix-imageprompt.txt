@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 A wave shape rising out of a flat band of water, two dot eyes in it, the curl of the wave holding a small chest. Petrol on the water. Steer away from teeth, claws or a sea monster.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Square 1:1, 1024 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/creature/furtnix.png
+img/creature/furtnix.jpg

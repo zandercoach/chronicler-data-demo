@@ -30,7 +30,9 @@ Hand-drawn flipchart illustration, as sketched live by a trainer with markers: c
 
 ## The brief
 
-One file per image in `briefs/<type>/<file name>-imageprompt.txt`; the image goes to `img/<type>/<file name>.png`. The briefs stay outside `img/`, because the whole of `img/` is published. The file name is the entry's name as the engine looks it up: lower case, spaces as `_`, umlauts kept (`jörn_eisenfaust`). A type's placeholder is `img/<type>/default.jpg` — JPEG, because the engine looks for that name only.
+One file per image in `briefs/<type>/<file name>-imageprompt.txt`; the image goes to `img/<type>/<file name>.jpg`. The briefs stay outside `img/`, because the whole of `img/` is published. The file name is the entry's name as the engine looks it up: lower case, spaces as `_`, umlauts kept (`jörn_eisenfaust`); a type's placeholder is `default.jpg`.
+
+Images are generated as PNG and stored as JPEG, at most 1000 px on the long side, quality 85 — about 30–90 KB instead of over 1 MB. The pages show them far smaller; the engine finds `.png` and `.jpg` alike.
 
 ```
 IMAGE STYLE GUIDE ("zander.coach flipchart style", Chronicler demo variant)
@@ -58,3 +60,4 @@ The staging, the pose, the details within the style.
 ## History
 
 - **2026-11-22.** Set up with the first eighteen briefs: the demo's three heroes, two non-player characters, two creatures, four places, two adventure covers and a placeholder per type. Direction A of two (Christian): the core's flipchart hand, not a classic ink-and-watercolour RPG illustration, because the demo speaks as Christian.
+- **2026-11-22.** All eighteen images drawn. Three regenerated after review, their briefs sharpened: the Nebelmoor cover showed Mirela hooded, which reads as Ylva; on the tithe cover figures floated without ground; the place placeholder's milestone read as a door. Lesson for covers: name each figure's look as in their portrait. Stored as JPEG, 1000 px.

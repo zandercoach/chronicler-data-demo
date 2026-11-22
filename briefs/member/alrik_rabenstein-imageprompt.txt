@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 Standing figure holding a small coin purse close to his chest with both hands, a short tally stick tucked in his belt. Petrol on the purse. Steer away from piles of gold or a miser caricature.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/member/alrik_rabenstein.png
+img/member/alrik_rabenstein.jpg

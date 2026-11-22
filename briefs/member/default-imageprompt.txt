@@ -14,7 +14,7 @@ THE MOTIF DIRECTION
 A flipchart figure drawn as an outline only, torso left white, a simple travelling cloak, standing straight. Petrol on a single detail such as the cloak clasp. Steer away from question marks or any sign.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as default.jpg.
+The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.

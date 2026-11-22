@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 Figure with a walking staff in one hand and a lantern in the other, a small mill wheel behind her. Petrol on the lantern. Steer away from a witch or a crone.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/stakeholder/mirela_vom_mühlbach.png
+img/stakeholder/mirela_vom_mühlbach.jpg

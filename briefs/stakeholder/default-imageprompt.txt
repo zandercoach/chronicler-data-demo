@@ -14,7 +14,7 @@ THE MOTIF DIRECTION
 An outline figure seen from a little distance, holding a lantern low, torso left white. Petrol on the lantern. Steer away from question marks or any sign.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as default.jpg.
+The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.

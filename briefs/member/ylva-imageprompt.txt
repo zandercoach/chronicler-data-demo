@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 A figure in a hooded cloak stepping into the picture from one side, half of the figure still at the edge; the hood is a simple shape around the usual face of two dots and a smile. Petrol on the cloak. Steer away from anything sinister or hidden-weapon.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/member/ylva.png
+img/member/ylva.jpg

@@ -11,13 +11,13 @@ WHAT THE PICTURE SHOULD DO
 A cover of a journey into mist, with the tower as the promise at the end.
 
 THE MOTIF DIRECTION
-Three figures in single file on a narrow path into bands of mist — Mirela first with her lantern, then Jörn with his hammer, then Alrik — the tower small and leaning at the top of the picture. Petrol on the lantern. Steer away from danger close to the figures.
+Three figures in single file on a narrow path into bands of mist, the tower small and leaning at the top of the picture. Each looks as in their portrait: Mirela first — curly hair, no hood, a short pale cape, walking staff in one hand, lantern in the other; then Jörn — smith's apron, hammer on his shoulder; then Alrik — dark cloak, purse at his belt. Nobody wears a hood: a hooded figure would read as Ylva, who joins only after the tower. Petrol on the lantern. Steer away from danger close to the figures.
 
 WHAT IS FIXED
-The style guide above. Portrait 2:3, 1024 x 1536, white background. Three figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Portrait 2:3, 1024 x 1536, white background. Three figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/endeavor/der_turm_im_nebelmoor.png
+img/endeavor/der_turm_im_nebelmoor.jpg

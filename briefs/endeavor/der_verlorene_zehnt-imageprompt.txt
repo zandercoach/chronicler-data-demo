@@ -11,13 +11,13 @@ WHAT THE PICTURE SHOULD DO
 A cover that makes the reader want to know what happened at the ford.
 
 THE MOTIF DIRECTION
-The tithe cart at the ford, Alrik holding it by the shaft, Bosper small in the background running off, a ripple in the water where the chest goes under. Petrol on the water around the chest. Steer away from showing the Furtnix in full — the ripple is enough.
+The tithe cart standing in the shallow ford, Alrik — dark cloak, as in his portrait — holding it by the shaft; the chest sliding off the back of the cart into the water, half under, a ripple around it. Bosper — flat cap, as in his portrait — small in the background, running away along the bank with both feet on the ground. A clear ground line on both banks, so nothing floats. Petrol on the ripple around the chest. Steer away from showing the Furtnix in full — the ripple is enough.
 
 WHAT IS FIXED
-The style guide above. Portrait 2:3, 1024 x 1536, white background. Two figures. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Portrait 2:3, 1024 x 1536, white background. Two figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/endeavor/der_verlorene_zehnt.png
+img/endeavor/der_verlorene_zehnt.jpg

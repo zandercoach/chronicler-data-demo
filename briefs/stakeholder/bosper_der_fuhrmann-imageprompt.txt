@@ -14,10 +14,10 @@ THE MOTIF DIRECTION
 Figure in a flat cap holding a driver's whip, standing beside one large cart wheel, leaning slightly back as if the water had just surprised him. Petrol on the cap. Steer away from making him look cowardly or comic.
 
 WHAT IS FIXED
-The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG.
+The style guide above. Square 1:1, 1024 x 1024, white background. One figure. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
 
 FILE
-img/stakeholder/bosper_der_fuhrmann.png
+img/stakeholder/bosper_der_fuhrmann.jpg

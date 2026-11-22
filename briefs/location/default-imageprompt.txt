@@ -11,10 +11,10 @@ WHAT THE PICTURE SHOULD DO
 A place on the way that has not been drawn yet.
 
 THE MOTIF DIRECTION
-A winding path that starts at the bottom edge and fades into white space towards the horizon, a single milestone beside it. Petrol on the milestone. Steer away from compass roses or map lettering.
+A winding path that starts at the bottom edge and fades into white space towards the horizon, a single milestone beside it: a low, round-topped stone, wider than tall, clearly a stone and not a door or a window, in muted grey-green. Petrol on a small tuft of grass at the foot of the stone. Steer away from compass roses or map lettering.
 
 WHAT IS FIXED
-The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as default.jpg.
+The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG; it is stored as JPEG.
 
 WHAT IS YOURS
 The staging, the pose, the details within the style.
