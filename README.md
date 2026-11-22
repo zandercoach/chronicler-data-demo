@@ -6,7 +6,7 @@ The story — *Der verlorene Zehnt* and *Der Turm im Nebelmoor* — started as t
 
 ## Layout
 
-- `data/` — the chronicle as XML: `data.xml` ties the endeavors, members, stakeholders, creatures, locations and sessions together; `chronicler.xml` configures the instance (title, welcome text, copyright, wiki source).
+- `data/` — the chronicle as XML: `data.xml` ties the endeavors, members, stakeholders, creatures, locations and sessions together; `chronicler.xml` configures the instance (title, welcome text, copyright, wiki source, legal links, map, calendar).
 - `img/` — pictures per type; a missing one falls back to `default.jpg`.
 - `briefs/` — one image brief per picture, in the „zander.coach flipchart style"; the rules are in `IMAGE-STYLE.md`, a supplement of the workspace's image-style core.
 
@@ -14,4 +14,4 @@ The story — *Der verlorene Zehnt* and *Der Turm im Nebelmoor* — started as t
 
 Every push to `main` runs `.github/workflows/publish.yml`: the engine's `main` generates the chronicle, the engine's invariant tests check it, and GitHub Pages serves the result. Pull requests are generated and checked, not published.
 
-Dates follow the engine's Aventurian calendar (`1.PER 1001 BF`) — a limit of the engine, not of the story.
+Dates follow the chronicle's own calendar, configured in `chronicler.xml`: twelve months from Eismond to Frostmond and five Flutnächte, counted „nach der Flut“. The data writes `1.NEB 1001 n. F.`, the pages show `1. Nebelmond 1001 n. F.`
