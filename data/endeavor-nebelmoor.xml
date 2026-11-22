@@ -1,7 +1,7 @@
     <endeavor date="12.RAH 1003 BF" wikiPage="Moor">
         <title>Der Turm im Nebelmoor</title>
         <description>Zwei Jahre nach Der verlorene Zehnt folgen Alrik Rabenstein und Jörn Eisenfaust dem Gerücht eines versunkenen Turms ins [[Moor|Nebelmoor]]. Ihre Führerin ist Mirela vom Mühlbach, die die Pfade kennt &amp; den Preis, sie zu verlieren.
-Ein zweiter Absatz, damit auch Zeilenumbrüche in einer Beschreibung abgedeckt sind.</description>
+Was sie im Turm finden, ist nicht der verlorene Zehnt. Aber es weiß, wo er geblieben ist.</description>
         <event date="12.RAH 1003 BF" location="Mühlbach">
             <title>Ein Führer mit Preis</title>
             <description>In der Mühle von Mühlbach nennt Mirela vom Mühlbach ihren Preis: "die Hälfte von allem, was der Turm hergibt". Jörn Eisenfaust feilscht, Alrik Rabenstein zahlt.</description>
@@ -20,12 +20,11 @@ Ein zweiter Absatz, damit auch Zeilenumbrüche in einer Beschreibung abgedeckt s
         </event>
         <event date="3.NAM 1003 BF">
             <title>Rückweg ohne Karte</title>
-            <description>Ein Ereignis ohne Ort, wie es die Daten erlauben.</description>
+            <description>Im Nebel verliert Jörn Eisenfaust erst den Pfad, dann die anderen. Seine eigene Karte hilft ihm nicht mehr.</description>
             <member>Jörn Eisenfaust</member>
         </event>
         <waypoint location="Mühlbach"/>
         <waypoint location="Turm im Nebelmoor"/>
         <waypoint x="420" y="310"/>
-        <session>2024-03-09</session>
-        <session>2024-04-20</session>
+        <session>2026-11-22</session>
     </endeavor>
