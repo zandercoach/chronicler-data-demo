@@ -1,0 +1,92 @@
+name: Publish
+
+# Generates the demo chronicle with the engine's main branch, checks it against the invariants
+# every generated page must keep (GeneratedSiteInvariantsTest in zandercoach/chronicler-engine)
+# and publishes it to GitHub Pages: https://chronicler.adaptive-x-ai.org
+# Pull requests are generated and checked, but not published.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Generate and check
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the data
+        uses: actions/checkout@v4
+        with:
+          path: data-repo
+
+      - name: Check out the engine
+        uses: actions/checkout@v4
+        with:
+          repository: zandercoach/chronicler-engine
+          path: chronicler-engine
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+          cache: maven
+          cache-dependency-path: chronicler-engine/pom.xml
+
+      - name: Cache the Maven wrapper
+        uses: actions/cache@v4
+        with:
+          path: ~/.m2/wrapper
+          key: maven-wrapper-${{ hashFiles('chronicler-engine/.mvn/wrapper/maven-wrapper.properties') }}
+
+      - name: Check the invariants
+        working-directory: chronicler-engine
+        run: >
+          ./mvnw --batch-mode --no-transfer-progress test
+          -Dtest=GeneratedSiteInvariantsTest
+          -Dchronicler.data=${{ github.workspace }}/data-repo
+
+      - name: Generate the chronicle
+        working-directory: chronicler-engine
+        run: |
+          ./mvnw --batch-mode --no-transfer-progress -q -DskipTests compile dependency:build-classpath -Dmdep.outputFile=cp.txt
+          java -cp "target/classes:$(cat cp.txt)" coach.zander.chronicler.cli.gen.xml.XmlStaticSiteGeneratorApp \
+            --data=${{ github.workspace }}/data-repo --out=${{ github.workspace }}/dist --images
+
+      - name: Keep the site for publishing
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Keep the test reports
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: surefire-reports
+          path: chronicler-engine/target/surefire-reports/
+          retention-days: 7
+
+  publish:
+    name: Publish to GitHub Pages
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

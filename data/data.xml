@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!DOCTYPE doc [
+<!ENTITY nebelmoorXml SYSTEM "endeavor-nebelmoor.xml">
+<!ENTITY endeavorXml SYSTEM "endeavor.xml">
+<!ENTITY membersXml SYSTEM "members.xml">
+<!ENTITY creaturesXml SYSTEM "creatures.xml">
+<!ENTITY stakeholdersXml SYSTEM "stakeholders.xml">
+<!ENTITY locationsXml SYSTEM "locations.xml">
+<!ENTITY sessionsXml SYSTEM "sessions.xml">
+]>
+
+<chroniclerData>
+
+    &nebelmoorXml;
+    &endeavorXml;
+
+    &membersXml;
+    &creaturesXml;
+    &stakeholdersXml;
+    &locationsXml;
+    &sessionsXml;
+
+</chroniclerData>
