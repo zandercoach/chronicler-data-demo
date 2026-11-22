@@ -3,7 +3,7 @@
     <title>Die Chroniken vom Nebelmoor</title>
     <welcome>Willkommen bei den Taten der Gefährten, die auszogen, den Zehnt zu suchen, und im Nebelmoor einen Turm fanden:</welcome>
     <copyright>Christian Zander</copyright>
-    <wiki name="Wikipedia" url="https://de.wikipedia.org/wiki/"/>
+    <wiki name="Wikipedia" url="https://de.wikipedia.org/wiki/" icon="wiki.svg"/>
     <legal imprint="https://www.zander.coach/impressum/" privacy="https://www.zander.coach/datenschutz/"/>
     <map>Hier wird sich bald der Weg der Helden verfolgen lassen: von [[Graufurt]] bis ins Nebelmoor. Bis dahin erzählen die Abenteuer, wohin er sie geführt hat.</map>
     <calendar era="n. F." before="v. F.">
