@@ -1,0 +1,23 @@
+IMAGE STYLE GUIDE ("zander.coach flipchart style", Chronicler demo variant)
+==========================================================================
+Hand-drawn flipchart illustration, as sketched live by a trainer with markers: clean near-black marker outlines on a plain white background, simple friendly shapes. Human figures are always drawn with a body — a round head, an oval torso, and single-line arms and legs attached to that torso, each ending in a small round hand or foot, never a head with limbs hanging directly off it — and the posture carries the expression. Each figure is about five heads tall: a large round head, a tall narrow oval torso about one and a half heads long, long straight legs. Faces are two dot eyes and a small curved smile, no nose, the head often turned slightly to one side; hair is a few loose marker strokes that tell the figures apart. Torsos are filled flat or left white. One even line weight throughout, like a medium marker at about half a percent of the image width, never thicker for emphasis. Colours only from this palette, applied as wide, slightly uneven marker strokes and flat fills. Petrol (#008888) is the eye-catcher: used sparingly, on the one or two things the eye should land on first. Supporting accents: deep petrol (#005F5F), deep sea (#06393A), pale petrol (#C7DBD8) and sand (#A98B5B), the only warm colour. Quiet neutrals for secondary shapes: soft ink (#354544), muted grey-green (#556564), light surface (#F1F5F4) and pale line grey (#DCE5E3). Outlines and lettering in ink (#0F1A1A); no pure black, no other colours. No hatching, no cross-hatching, no paper texture, no grain, no gradients, no shading, no photorealism. Few details and plenty of white space. Light, warm, optimistic mood. Illustrations for an invented fantasy chronicle. People are the same flipchart figures, told apart only by their gear and clothing — a cloak, a hammer, a purse, a hood — never by realistic faces, armour detail or weapons drawn to threaten. Creatures and places are simple marker shapes. Mist, water and night are flat fields of deep sea, deep petrol and pale petrol, never gradients; the mood stays inviting and curious rather than grim. One subject per image, centred, with plenty of white space around it. No words, letters, numbers or digits anywhere in the image.
+
+IMAGE BRIEF ("Turm im Nebelmoor", place) — GOAL, NOT A CHECKLIST
+================================================================
+WHO OR WHAT IT IS
+A tower half sunk into the moor. What the heroes find there is not the lost tithe, but it knows where the tithe went.
+
+WHAT THE PICTURE SHOULD DO
+The goal of the journey: strange, quiet, inviting a closer look.
+
+THE MOTIF DIRECTION
+A tall tower leaning a little, its lower half under a flat field of moor water, bands of mist across it, one window lit. Petrol on the window. Steer away from a ruin in flames or a dark fortress.
+
+WHAT IS FIXED
+The style guide above. Landscape 3:2, 1536 x 1024, white background. No figures. No words, letters or digits anywhere. Deliver as PNG.
+
+WHAT IS YOURS
+The staging, the pose, the details within the style.
+
+FILE
+img/location/turm_im_nebelmoor.png

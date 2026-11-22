@@ -8,6 +8,7 @@ The story — *Der verlorene Zehnt* and *Der Turm im Nebelmoor* — started as t
 
 - `data/` — the chronicle as XML: `data.xml` ties the endeavors, members, stakeholders, creatures, locations and sessions together; `chronicler.xml` configures the instance (title, welcome text, copyright, wiki source).
 - `img/` — pictures per type; a missing one falls back to `default.jpg`.
+- `briefs/` — one image brief per picture, in the „zander.coach flipchart style"; the rules are in `IMAGE-STYLE.md`, a supplement of the workspace's image-style core.
 
 ## Publishing
 
